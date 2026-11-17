@@ -28,9 +28,9 @@ The site works as-is, but these values are still placeholders:
    `abcd@gmail.com`. Replace every occurrence with the real inbox.
    After changing it, the first submission triggers a one-time FormSubmit
    activation email — click the link in it once.
-2. **Phone number** — the number `9876543210` appears in `contact.html` (call link,
-   visible number) and in the footer of `index.html`, `about.html`, `services.html`.
-   Replace with the real number, keeping the `tel:+91…` format.
+2. **Phone number** — the placeholder `00000 00000` appears in `contact.html` (call
+   link and visible number) and in the footer of every page. Replace the visible text
+   and the `tel:0000000000` links with the real number (use a `tel:+91…` link format).
 3. **Menu prices** — every price in `services.html` is a sample value and is labelled
    indicative on the page. Update to the real prices.
 4. **Copyright year** — the footer says 2026 on every page.
